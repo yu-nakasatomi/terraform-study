@@ -46,7 +46,7 @@ resource "aws_s3_bucket_policy" "policy" {
         "s3:GetObject"
       ],
       "Resource": [
-        "arn:aws:s3:::aufgiesser-sample-bucket-${var.name}/*"
+        "arn:aws:s3:::sample-bucket-${var.name}/*"
       ]
     }
   ]
