@@ -1,7 +1,7 @@
 # terraform-study
 terraformの学習用リポジトリ
 
-# Terraform に関するコマンド
+## Terraform に関するコマンド
 
 1. terraform init (Terraform 環境の初期化)
 
